@@ -1,11 +1,1 @@
-#define AUTHOR "Ikat's" 
-main()
-{
-  printf("Hi, I'm %s\n", AUTHOR);
-  LoadExperience();
-}
-
-stock LoadExperience()
-{
-    return print("The language that I dominate the most is pawn because with it I have practiced more occasions.\nHowever I want to learn more languages, among them java : )");
-}
+Hello! What can I tell you about myself? Well, I'm a guy who one boring day decided to download an IDE and create the famous "Hello world!". Since that day I have been interested in programming because I find it fun, you can create anything you imagine! It's something fantastic, isn't it?
